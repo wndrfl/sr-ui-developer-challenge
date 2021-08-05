@@ -12,7 +12,7 @@ Be mindful of adhering to the creative, but know that the creative team and clie
 
 ## Creative
 The creative (design) for the landing page is located at the following url:
-https://www.figma.com/file/sGizBkHcKcy9PUoLYgMYg8/Wonderful-UI-Code-Challenge?node-id=0%3A1
+https://www.figma.com/file/J2GWNzuz5BilxMAQBfK2hr/Sr.-Wonderful-UI-Code-Challenge?node-id=2%3A770
 
 ## Requirements
 - Develop a front end page (as much as possible within your timeframe) to match the provided mocks. The expectation to be able to understand your decisions about where to best invest your time on a design that would likely take more time than you may have available for this code challenge.
