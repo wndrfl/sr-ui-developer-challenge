@@ -14,7 +14,7 @@ The mocks for the landing page in question are located at the following url:
 https://www.figma.com/file/sGizBkHcKcy9PUoLYgMYg8/Wonderful-UI-Code-Challenge?node-id=0%3A1
 
 ## Expected Delivery
-- a live URL to view your submission in action
+- a live URL to view your submission in action for both desktop and mobile breakpoints
 - a reviewable copy of the codebase
 - the ability to chat through your process and decisions
 
@@ -22,6 +22,7 @@ https://www.figma.com/file/sGizBkHcKcy9PUoLYgMYg8/Wonderful-UI-Code-Challenge?no
 - Develop a front end page (as much as possible within your timeframe) to match the provided mocks. The expectation to be able to understand your decisions about where to best invest your time on a design that would likely take more time than you may have available for this code challenge.
 - Use your best judgement it pertains to animations, interactivity, and responsiveness.
 - Match the mocks to the best of your ability, within the time you have available for this challenge.
+- Please note that the mocks do not have a mobile breakpoint, we would like to see your best judgement in how to translate the designs for mobile devices.
 
 ## The Rules
 - The recommended timeframe is less than 1 week (assuming the challenge is worked on off house, etc), but we understand that you may have limited time to complete this challenge. You are done when you are satisfied, and you feel comfortable returning your work.
