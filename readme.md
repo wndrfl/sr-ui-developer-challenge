@@ -18,7 +18,7 @@ https://www.figma.com/file/J2GWNzuz5BilxMAQBfK2hr/Sr.-Wonderful-UI-Code-Challeng
 - Develop a front end page (as much as possible within your timeframe) to match the provided mocks. The expectation to be able to understand your decisions about where to best invest your time on a design that would likely take more time than you may have available for this code challenge.
 - Use your best judgement as it pertains to animations, interactivity, and responsiveness.
 - Match the mocks to the best of your ability, within the time you have available for this challenge.
-- Please note that the mocks do not have a mobile breakpoint, we would like to see your best judgement in how to translate the designs for mobile devices.
+- Please note that, while the mocks do not have a mobile breakpoint, we would like to see your best judgement in how to translate the designs for mobile devices.
 
 ## The Rules
 - The recommended time frame is less than 1 week (assuming the challenge is worked on off house, etc), but we understand that you may have limited time to complete this challenge. You are done when you are satisfied, and you feel comfortable returning to your work.
